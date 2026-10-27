@@ -15,3 +15,4 @@ lbl.pack(anchor='center')
 
 time()
 root.mainloop()
+//this is the new clock code in github for practice
