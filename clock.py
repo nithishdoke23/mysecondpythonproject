@@ -12,6 +12,6 @@ def time():
 lbl = Label(root, font=('calibri', 40, 'bold'),
             background='purple', foreground='white')
 lbl.pack(anchor='center')
-
+//new comment to check the merge conflicts
 time()
 root.mainloop()
