@@ -13,6 +13,8 @@ lbl = Label(root, font=('calibri', 40, 'bold'),
             background='purple', foreground='white')
 lbl.pack(anchor='center')
 //new comment to check the merge conflicts
+//another comments 
+//new comment
 time()
 root.mainloop()
 //this is the new clock code in github for practice
