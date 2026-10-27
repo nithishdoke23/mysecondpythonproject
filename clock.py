@@ -15,5 +15,6 @@ lbl.pack(anchor='center')
 //new comment to check the merge conflicts
 //another comments 
 //new comment
+//new comment-1
 time()
 root.mainloop()
